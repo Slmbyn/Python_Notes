@@ -85,3 +85,7 @@ zayne = Dog('Zayne', 2)
 mocha = Dog('Mocha', 2)
 thugga = Dog('Thugga', 3)
 print(Dog.get_total_dogs())
+
+
+# PYTHON INHERITANCE: SUPERCLASS & SUBCLASS
+# https://www.programiz.com/python-programming/inheritance
